@@ -12,7 +12,7 @@ A simple and intuitive web application that provides real-time weather informati
 
 ## Live Demo
 
-Experience the application live at: [tarush001.github.io/Weather-App/](https://tarush001.github.io/Weather-App/)
+Experience the application live at: [tarush001.github.io/Weather-App/](https://Utkarsh-bisht1717.github.io/Weather-App/)
 
 ## Installation
 
